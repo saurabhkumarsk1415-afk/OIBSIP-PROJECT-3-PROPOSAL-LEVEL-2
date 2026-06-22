@@ -1,2 +1,0 @@
-# OIBSIP-PROJECT-3-PROPOSAL-LEVEL-2
-Idea : Fraud Detection 
